@@ -1,4 +1,4 @@
-# This is the comment section for Postman Reports
+# Postman Reports
 
 name: "Newman Tests"
 on: [push, pull_request]
